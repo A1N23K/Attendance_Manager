@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "103018670108",
+    "project_id": "login-register-am",
+    "storage_bucket": "login-register-am.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:103018670108:android:5f0af9fe8f4680346dd7d9",
+        "android_client_info": {
+          "package_name": "com.example.amapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDL5zBiLhErmPs3FxLL1PTh04CLVzIagiM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
